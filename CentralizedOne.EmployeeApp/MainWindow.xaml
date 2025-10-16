@@ -1,0 +1,111 @@
+﻿<Window x:Class="CentralizedOne.EmployeeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CentralizedOne - Employee Dashboard" Height="650" Width="1050"
+        WindowStartupLocation="CenterScreen"
+        Background="#f4f6f9">
+
+    <Window.Resources>
+        <Style x:Key="SidebarButton" TargetType="Button">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="Height" Value="45" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="HorizontalContentAlignment" Value="Left" />
+            <Setter Property="Padding" Value="15,0,0,0" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}">
+                            <ContentPresenter VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#223547"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Sidebar Collapse Animation -->
+        <Storyboard x:Key="ExpandSidebar">
+            <DoubleAnimation Storyboard.TargetName="Sidebar"
+                             Storyboard.TargetProperty="Width"
+                             To="220" Duration="0:0:0.2" />
+        </Storyboard>
+
+        <Storyboard x:Key="CollapseSidebar">
+            <DoubleAnimation Storyboard.TargetName="Sidebar"
+                             Storyboard.TargetProperty="Width"
+                             To="60" Duration="0:0:0.2" />
+        </Storyboard>
+    </Window.Resources>
+
+    <!-- ✅ Toast Layer Wrapper -->
+    <Grid>
+        <!-- Existing Layout -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition x:Name="Sidebar" Width="189" />
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="16"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- ✅ SIDEBAR -->
+            <Border x:Name="SidebarPanel" Background="#1c2c3c" Grid.ColumnSpan="3" >
+                <StackPanel>
+                    <!-- Collapse/Expand Button -->
+                    <Border Background="#16222e" Height="45" VerticalAlignment="Top">
+                        <Button x:Name="BtnToggle"
+                                Content="☰"
+                                Foreground="White"
+                                Background="Transparent"
+                                BorderBrush="{x:Null}"
+                                FontSize="18"
+                                Click="BtnToggle_Click" />
+                    </Border>
+
+                    <!-- Menu Items -->
+                    <Button Content="   🏠  Dashboard" Style="{StaticResource SidebarButton}" Click="BtnDashboard_Click" />
+                    <Button Content="   📄  Documents" Style="{StaticResource SidebarButton}" Click="BtnDocuments_Click" />
+                    <Button Content="   📅  Appointments" Style="{StaticResource SidebarButton}" Click="BtnAppointments_Click" />
+                    <Button Content="   🔔  Notifications" Style="{StaticResource SidebarButton}" Click="BtnNotifications_Click" />
+                    <Button Content="   👤  Profile" Style="{StaticResource SidebarButton}" Click="BtnProfile_Click" />
+                    <Button Content="   ⚙  Settings" Style="{StaticResource SidebarButton}" Click="BtnSettings_Click" />
+                    <Button Content="   🚪  Logout" Style="{StaticResource SidebarButton}" Click="BtnLogout_Click" />
+                </StackPanel>
+            </Border>
+
+            <!-- ✅ CONTENT AREA -->
+            <Grid Grid.Column="3">
+                <!-- Top Bar -->
+                <Border Background="#1c2c3c" Height="50" VerticalAlignment="Top">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="15,0,0,0">
+                        <TextBlock Text="👤" FontSize="18" Foreground="White" Margin="0,0,8,0"/>
+                        <TextBlock x:Name="LblUser" Text="Welcome, User!" 
+                                FontWeight="Bold" 
+                                FontSize="16"
+                                VerticalAlignment="Center"
+                                Foreground="White"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Page Content Area -->
+                <Frame x:Name="ContentFrame" Grid.Row="1" Margin="0,50,0,0" NavigationUIVisibility="Hidden"/>
+            </Grid>
+        </Grid>
+
+        <!-- ✅ Toast Host Container (Overlay Layer) -->
+        <StackPanel x:Name="ToastHost"
+                    VerticalAlignment="Bottom"
+                    HorizontalAlignment="Right"
+                    Margin="0 20 20 20"
+                    IsHitTestVisible="False"/>
+        <!-- Makes it overlay without blocking clicks -->
+    </Grid>
+</Window>

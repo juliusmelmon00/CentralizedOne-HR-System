@@ -1,0 +1,13 @@
+﻿<Application x:Class="CentralizedOne.EmployeeApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CentralizedOne.EmployeeApp">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- ✅ FINAL CORRECT PATH -->
+                <ResourceDictionary Source="/CentralizedOne.EmployeeApp;component/Resources/Converters.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

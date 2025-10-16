@@ -1,0 +1,6 @@
+@CentralizedOne.WebAPI_HostAddress = http://localhost:5249
+
+GET {{CentralizedOne.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

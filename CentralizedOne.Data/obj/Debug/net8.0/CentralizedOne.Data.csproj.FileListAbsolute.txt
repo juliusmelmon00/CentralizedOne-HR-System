@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\bin\Debug\net8.0\CentralizedOne.Data.deps.json
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\bin\Debug\net8.0\CentralizedOne.Data.runtimeconfig.json
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\bin\Debug\net8.0\CentralizedOne.Data.dll
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\bin\Debug\net8.0\CentralizedOne.Data.pdb
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.dll
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\refint\CentralizedOne.Data.dll
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.pdb
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\CentralizedOne.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.Data\obj\Debug\net8.0\ref\CentralizedOne.Data.dll

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

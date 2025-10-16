@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.WPF\obj\Debug\net8.0-windows\CentralizedOne.WPF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.WPF\obj\Debug\net8.0-windows\CentralizedOne.WPF_MarkupCompile.cache
+C:\Users\user\source\repos\CentralizedOne\CentralizedOne.WPF\obj\Debug\net8.0-windows\CentralizedOne.WPF_MarkupCompile.lref

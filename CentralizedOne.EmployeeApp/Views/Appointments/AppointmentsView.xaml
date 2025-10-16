@@ -1,0 +1,69 @@
+﻿<UserControl x:Class="CentralizedOne.EmployeeApp.Views.Appointments.AppointmentsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Background="White">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="📅 My Appointments"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="#1c2c3c"
+                       Margin="0 0 15 0"/>
+
+            <Button x:Name="BtnSchedule"
+                    Content="➕ Schedule New"
+                    Width="160"
+                    Height="30"
+                    Background="#1c2c3c"
+                    Foreground="White"
+                    FontWeight="SemiBold"
+                    Cursor="Hand"
+                    Click="BtnSchedule_Click"/>
+        </StackPanel>
+
+        <!-- Status -->
+        <TextBlock x:Name="LblStatus"
+                   Text="Loading appointments..."
+                   FontSize="14"
+                   Foreground="#7a869a"
+                   Grid.Row="1"
+                   Visibility="Collapsed"
+                   Margin="5"/>
+
+        <!-- Appointment Table -->
+        <ListView x:Name="ListAppointments" Grid.Row="1" Margin="0,30,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Title" Width="200" DisplayMemberBinding="{Binding Title}" />
+                    <GridViewColumn Header="Date" Width="200" DisplayMemberBinding="{Binding ScheduledAt}" />
+                    <GridViewColumn Header="Status" Width="140">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border Padding="6 2"
+                                        CornerRadius="12"
+                                        Background="{Binding Status, Converter={StaticResource StatusToColorConverter}}">
+                                    <TextBlock Text="{Binding Status}"
+                                               Foreground="White"
+                                               FontWeight="Bold"
+                                               FontSize="12"
+                                               TextAlignment="Center"/>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</UserControl>

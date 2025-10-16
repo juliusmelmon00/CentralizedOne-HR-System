@@ -1,0 +1,1269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CentralizedOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\helpers\\toastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\helpers\\toastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\helpers\\statustocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\helpers\\statustocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\viewmodels\\documentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\viewmodels\\documentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\shared\\toastnotification.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\shared\\toastnotification.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\shared\\toastnotification.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\shared\\toastnotification.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\documents\\documentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\documents\\documentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\documents\\documentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\documents\\documentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\resources\\converters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\resources\\converters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\helpers\\booleaninverseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\helpers\\booleaninverseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\documents\\expirydatedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\documents\\expirydatedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\documents\\expirydatedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\documents\\expirydatedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\viewmodels\\relaycommandasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\viewmodels\\relaycommandasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\documents\\datepickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\documents\\datepickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\centralizedone.employeeapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\centralizedone.employeeapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\appointments\\appointmentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\appointments\\appointmentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\auth\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\auth\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\appointments\\appointmentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\appointments\\appointmentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\centralizedone.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\centralizedone.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\documents\\datepickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\documents\\datepickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\auth\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\auth\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\models\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\models\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\models\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\models\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250922130731_addauditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250922130731_addauditlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\centralizedone.employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\centralizedone.employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\settings\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\settings\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\settings\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\settings\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\profile\\profileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\profile\\profileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\profile\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\profile\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\notifications\\notificationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\notifications\\notificationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\notifications\\notificationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\notifications\\notificationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\dashboard\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\dashboard\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.employeeapp\\views\\dashboard\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33EF5A-9401-4811-84C8-6D92D2EBE3F6}|CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj|solutionrelative:centralizedone.employeeapp\\views\\dashboard\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\centralizedone.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\centralizedone.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\services\\openrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\services\\openrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250914120847_adddocumentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250914120847_adddocumentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\centralizedone.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\centralizedone.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\appointmentgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\appointmentgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\appointmentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\appointmentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\unifiedreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\unifiedreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\userreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\userreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250923090851_updateappointmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250923090851_updateappointmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\queries\\debugqueries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\queries\\debugqueries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\documentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\documentsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\dtos\\documentgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\dtos\\documentgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.webapi\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20F4543-D421-42FD-AF4A-9E9F85794118}|CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj|solutionrelative:centralizedone.webapi\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250923090304_updateappointmentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250923090304_updateappointmentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250913102534_addusersandappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250913102534_addusersandappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250913114345_simpleroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250913114345_simpleroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250913092337_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250913092337_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|c:\\users\\user\\source\\repos\\centralizedone\\centralizedone.data\\migrations\\20250914133517_seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D53814-1D48-4D24-AD08-D56938024AA4}|CentralizedOne.Data\\CentralizedOne.Data.csproj|solutionrelative:centralizedone.data\\migrations\\20250914133517_seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:55:58.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\ViewModels\\DocumentsViewModel.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\ViewModels\\DocumentsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\ViewModels\\DocumentsViewModel.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\ViewModels\\DocumentsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:16:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Helpers\\StatusToColorConverter.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Helpers\\StatusToColorConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Helpers\\StatusToColorConverter.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Helpers\\StatusToColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:06:24.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToastService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Helpers\\ToastService.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Helpers\\ToastService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Helpers\\ToastService.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Helpers\\ToastService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T22:19:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T17:45:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\MainWindow.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T16:55:58.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToastNotification.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-14T22:18:24.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Documents\\DocumentsView.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:11:08.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\User.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:24:00.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:03:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToastNotification.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Shared\\ToastNotification.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T22:18:47.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Converters.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Resources\\Converters.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Resources\\Converters.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Resources\\Converters.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Resources\\Converters.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-14T19:38:57.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BooleanInverseConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Helpers\\BooleanInverseConverter.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Helpers\\BooleanInverseConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Helpers\\BooleanInverseConverter.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Helpers\\BooleanInverseConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:52:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpiryDateDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-14T21:38:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExpiryDateDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Documents\\ExpiryDateDialog.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:40:39.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RelayCommandAsync.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\ViewModels\\RelayCommandAsync.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\ViewModels\\RelayCommandAsync.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\ViewModels\\RelayCommandAsync.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\ViewModels\\RelayCommandAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:16:51.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CentralizedOne.EmployeeApp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T20:35:19.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Services\\ApiClient.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Services\\ApiClient.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:42:08.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\App.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\App.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T19:07:14.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatePickerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T20:46:56.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Services\\SessionManager.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Services\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Services\\SessionManager.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Services\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:40:25.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Models\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\AppointmentDto.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Models\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:44:07.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Program.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:03:26.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:21:29.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T17:46:12.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppointmentsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Appointments\\AppointmentsView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:48:13.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CentralizedOne.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\CentralizedOne.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T09:29:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\appsettings.json",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T09:47:57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\DocumentsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:50:19.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DatePickerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Documents\\DatePickerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:47:28.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Auth\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T19:20:20.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChatDtos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\ChatDtos.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Models\\ChatDtos.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\ChatDtos.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Models\\ChatDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:49:32.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T19:45:37.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DocumentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\DocumentDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Models\\DocumentDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\DocumentDto.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Models\\DocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:43:35.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Models\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Models\\AuthDtos.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Models\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:17:34.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\App.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:06:35.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\AIController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AIController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:19:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T09:20:20.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250922130731_AddAuditLogs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250922130731_AddAuditLogs.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250922130731_AddAuditLogs.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250922130731_AddAuditLogs.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250922130731_AddAuditLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:07:31.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NotificationsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:12:05.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfileView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:12:21.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CentralizedOne.EmployeeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\CentralizedOne.EmployeeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T17:41:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:12:40.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Settings\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T17:47:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T17:44:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProfileView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Profile\\ProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T17:47:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml.cs",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Dashboard\\DashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:10:03.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NotificationsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml",
+              "RelativeDocumentMoniker": "CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml",
+              "RelativeToolTip": "CentralizedOne.EmployeeApp\\Views\\Notifications\\NotificationsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-12T17:46:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CentralizedOne.Data",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "RelativeToolTip": "CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T17:14:18.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\Appointment.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:24:35.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OpenRouterService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Services\\OpenRouterService.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Services\\OpenRouterService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Services\\OpenRouterService.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Services\\OpenRouterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:18:21.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ChatResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\ChatResponse.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\ChatResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\ChatResponse.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\ChatResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:16:49.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\ChatRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\ChatRequest.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:15:38.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250914120847_AddDocumentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250914120847_AddDocumentStatus.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250914120847_AddDocumentStatus.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250914120847_AddDocumentStatus.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250914120847_AddDocumentStatus.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:51:16.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAkwMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:58:01.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:57:23.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAnwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:43:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UnifiedReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\UnifiedReportDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\UnifiedReportDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\UnifiedReportDto.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\UnifiedReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:58:08.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AppointmentSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\AppointmentSummaryDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\AppointmentSummaryDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\AppointmentSummaryDto.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\AppointmentSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:19:58.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CentralizedOne.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "RelativeToolTip": "CentralizedOne.Data\\CentralizedOne.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T09:11:33.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AppointmentGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\AppointmentGroupDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\AppointmentGroupDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\AppointmentGroupDto.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\AppointmentGroupDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:14:37.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\Notification.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:28:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\UserReportDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\UserReportDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\UserReportDto.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\UserReportDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:07:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250923090851_UpdateAppointmentsTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250923090851_UpdateAppointmentsTable.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250923090851_UpdateAppointmentsTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250923090851_UpdateAppointmentsTable.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250923090851_UpdateAppointmentsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:08:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:27:47.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DocumentSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\DocumentSummaryDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\DocumentSummaryDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\DocumentSummaryDto.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\DocumentSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:51:42.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DebugQueries.sql",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Queries\\DebugQueries.sql",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Queries\\DebugQueries.sql",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Queries\\DebugQueries.sql",
+              "RelativeToolTip": "CentralizedOne.Data\\Queries\\DebugQueries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-13T11:24:20.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DocumentGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\DocumentGroupDto.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\DTOs\\DocumentGroupDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\DTOs\\DocumentGroupDto.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\DTOs\\DocumentGroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:17:22.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T12:38:31.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:04:07.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AuditLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AuditLogsController.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.WebAPI\\Controllers\\AuditLogsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.WebAPI\\Controllers\\AuditLogsController.cs",
+              "RelativeToolTip": "CentralizedOne.WebAPI\\Controllers\\AuditLogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:13:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250923090304_UpdateAppointmentsModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250923090304_UpdateAppointmentsModel.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250923090304_UpdateAppointmentsModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250923090304_UpdateAppointmentsModel.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250923090304_UpdateAppointmentsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:03:04.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250913102534_AddUsersAndAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250913102534_AddUsersAndAppointments.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250913102534_AddUsersAndAppointments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250913102534_AddUsersAndAppointments.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250913102534_AddUsersAndAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:25:34.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\AuditLog.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:01:32.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250914133517_SeedUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250914133517_SeedUsers.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250914133517_SeedUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250914133517_SeedUsers.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250914133517_SeedUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:35:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Models\\Role.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Models\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:19:02.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250913114345_SimpleRoles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250913114345_SimpleRoles.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250913114345_SimpleRoles.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250913114345_SimpleRoles.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250913114345_SimpleRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:43:45.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250913092337_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250913092337_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CentralizedOne.Data\\Migrations\\20250913092337_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CentralizedOne\\CentralizedOne.Data\\Migrations\\20250913092337_InitialCreate.cs",
+              "RelativeToolTip": "CentralizedOne.Data\\Migrations\\20250913092337_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T09:23:37.616Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

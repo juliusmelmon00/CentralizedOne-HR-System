@@ -1,0 +1,123 @@
+﻿<Window x:Class="CentralizedOne.EmployeeApp.Views.Auth.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CentralizedOne — Sign In"
+        Height="520" Width="420"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#f4f6f9"
+        FontFamily="Segoe UI">
+
+    <Window.Resources>
+        <!-- Card Shadow -->
+        <DropShadowEffect x:Key="CardShadow" BlurRadius="18" ShadowDepth="0" Opacity="0.25" Color="#000000"/>
+        <!-- Primary Button Style -->
+        <Style x:Key="PrimaryButton" TargetType="Button">
+            <Setter Property="Background" Value="#1c2c3c"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Height" Value="38"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#223547"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="#9aa7b3"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <!-- TextBox Style -->
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="34"/>
+            <Setter Property="Margin" Value="0,6,0,12"/>
+            <Setter Property="Padding" Value="10,4"/>
+        </Style>
+        <Style TargetType="PasswordBox">
+            <Setter Property="Height" Value="34"/>
+            <Setter Property="Margin" Value="0,6,0,12"/>
+            <Setter Property="Padding" Value="10,4"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Grid Background="#1c2c3c">
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="CentralizedOne System"
+                           Foreground="White"
+                           FontSize="18"
+                           FontWeight="Bold"
+                           HorizontalAlignment="Center"/>
+                <TextBlock Text="Secure Employee Access"
+                           Foreground="#e0e6eb"
+                           FontSize="12"
+                           HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Card -->
+        <Border Grid.Row="1"
+                Background="White"
+                CornerRadius="10"
+                Margin="30,16,30,16"
+                Effect="{StaticResource CardShadow}">
+            <Grid Margin="24">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Sign In"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Foreground="#1c2c3c"
+                           Margin="0,0,0,16"/>
+
+                <TextBlock Grid.Row="1" Text="UserID" Foreground="#334155" Margin="0,8,0,2"/>
+                <TextBox x:Name="TxtUsername" Grid.Row="1" Margin="0,26,0,0" />
+
+                <TextBlock Grid.Row="2" Text="Password" Foreground="#334155" Margin="0,8,0,2"/>
+                <PasswordBox x:Name="TxtPassword" Grid.Row="2" Margin="0,26,0,0"/>
+
+                <TextBlock x:Name="LblError" Grid.Row="3"
+                           Foreground="#d9534f" FontSize="12" TextWrapping="Wrap"
+                           Visibility="Collapsed" Margin="0,4,0,6" />
+
+                <Button x:Name="BtnLogin"
+                        Grid.Row="4"
+                        Content="Login"
+                        Style="{StaticResource PrimaryButton}"
+                        Click="BtnLogin_Click" Margin="0,0,0,-73" RenderTransformOrigin="0.49,-0.265"/>
+            </Grid>
+        </Border>
+
+        <!-- Footer note -->
+        <Grid Grid.Row="2">
+            <TextBlock Text="🔒 Your credentials are encrypted in transit."
+                       Foreground="#64748b"
+                       FontSize="12"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Window>
